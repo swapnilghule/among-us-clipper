@@ -1,0 +1,11 @@
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Recordings, edits and everything generated (large + friends' chat)
+storage/
+
+# Mac
+.DS_Store
